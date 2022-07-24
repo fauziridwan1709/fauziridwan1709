@@ -1,4 +1,7 @@
-### Hi there 👋
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziridwan1709&layout=compact&hide_border=true&hide=html,scss,vue&langs_count=6&hide_title=true&card_width=240)](https://github.com/fauziridwan1709)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fauziridwan1709&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&hide_title=true&count_private=true)](https://github.com/fauziridwan1709)
+
 
 <!--
 **fauziridwan1709/fauziridwan1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
