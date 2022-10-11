@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Depok, Indonesia
+## Hi 👋, I'm a software engineer working in JakSel, Indonesia
 
 <p align="left">
   <a href="https://leetcode.com/fauziridwan1709/">
