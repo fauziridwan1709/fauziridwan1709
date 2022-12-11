@@ -18,7 +18,7 @@
 
 #### Now
 
-- :fire: Interested in DevOps and Cloud engineering;
+- :fire: Interested in Flutter, DevOps and Cloud engineering;
 - :calendar: Looking for contributing to python based open source projects 
 
 #### Bio
